@@ -1,16 +1,54 @@
-## Hi there 👋
+# Tobias Deichmann
 
-<!--
-**ToxicToxster/ToxicToxster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technical Product & Delivery · Product Owner · Agile Leader**
 
-Here are some ideas to get you started:
+I turn complex product and delivery situations into clear priorities, workable structures, and reliable execution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background spans more than ten years across mechanical and mechatronic product development, technical project leadership, digital platforms, and Product Ownership. I work where product, engineering, QA, operations, and stakeholders meet — with enough technical depth to trace delivery problems to their actual cause.
+
+I am at my best when systems are complex: understanding the real situation, making bottlenecks and dependencies visible, bringing people together, and turning analysis into practical next steps.
+
+## What I work on
+
+- Product vision, discovery, roadmaps, backlogs, metrics, and release planning
+- Cross-functional coordination across software, mechanics, mechatronics, QA, manufacturing, and operations
+- Delivery diagnostics: bottlenecks, changing priorities, quality constraints, and stalled releases
+- Technical product work involving CI/CD, test systems, load and penetration testing, and self-hosted infrastructure
+- AI-assisted product development, automation, and quality assurance
+
+## Current work
+
+Through [EngpassAudit](https://engpassaudit.de/), I help technical SMEs understand why software and engineering delivery stalls — and turn the findings into prioritized actions and a practical 30/60/90-day plan.
+
+I also build and operate practical software and infrastructure projects, including [darktable-cli-server](https://github.com/ToxicToxster/darktable-cli-server), a security-focused HTTP service for processing RAW images with `darktable-cli`.
+
+## Current open-source work
+
+Recent tested submissions to [Tymeslot](https://github.com/Tymeslot/tymeslot), an open-source scheduling platform:
+
+- [Google and Outlook calendar event ID handling](https://github.com/Tymeslot/tymeslot/pull/64)
+- [Payment configuration for embedded-booking tests](https://github.com/Tymeslot/tymeslot/pull/65)
+- [OTP 28 and Dialyzer type compatibility](https://github.com/Tymeslot/tymeslot/pull/66)
+- [Mobile dashboard sidebar fix](https://github.com/Tymeslot/tymeslot/pull/68)
+
+Additional contribution:
+
+- [Nextcloud 33 compatibility for Camera RAW Previews](https://github.com/ariselseng/camerarawpreviews/pull/125)
+
+## Toolbox
+
+**Product and delivery:** Product Ownership, Product Discovery, Scrum, Kanban, roadmapping, backlog management, KPI-based delivery, release planning, Azure DevOps, GitHub
+
+**Hands-on technology:** Flutter/Dart, Node.js, Python, PHP, Docker, NGINX, PostgreSQL/MariaDB, Redis, Proxmox
+
+**AI and security:** LLM and agent workflows, AI-assisted development, penetration and load testing, security-aware delivery
+
+## Selected credentials
+
+- Scrum.org: [PSPO I](https://www.scrum.org/certificates/632057), [PSM I](https://www.scrum.org/certificates/632258), [PAL I](https://www.scrum.org/certificates/992875), [PSK I](https://www.scrum.org/certificates/1074830), [PPDV](https://www.scrum.org/certificates/1209978)
+- Google: [Cybersecurity Professional Certificate](https://coursera.org/verify/professional-cert/P232Q4AMZUJ2), [AI Professional Certificate](https://coursera.org/verify/professional-cert/POCW7ZLICYQK)
+- University of Colorado: [Agile Leadership Specialization](https://coursera.org/verify/specialization/4VRM2S9ZTM4J)
+
+## Connect
+
+[EngpassAudit](https://engpassaudit.de/) · [LinkedIn](https://www.linkedin.com/in/tobias-deichmann/)
