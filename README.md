@@ -20,7 +20,10 @@ I am at my best when systems are complex: understanding the real situation, maki
 
 Through [EngpassAudit](https://engpassaudit.de/), I help technical SMEs understand why software and engineering delivery stalls — and turn the findings into prioritized actions and a practical 30/60/90-day plan.
 
-I also build and operate practical software and infrastructure projects, including [darktable-cli-server](https://github.com/ToxicToxster/darktable-cli-server), a security-focused HTTP service for processing RAW images with `darktable-cli`.
+## Selected technical projects
+
+- [darktable-cli-server](https://github.com/ToxicToxster/darktable-cli-server) — a security-focused HTTP service for processing RAW images with `darktable-cli`.
+- [pdf-to-ipp](https://gitlab.com/Toxster/pdf-to-ipp) — a maintained and substantially extended fork of a Flask/CUPS service that receives PDFs through a REST API or web interface and forwards them to network printers via IPP. My extensions include runtime printer configuration, health checks, immutable container delivery, automated GitLab CI/CD, multi-architecture Docker images for AMD64 and ARM64, and Kubernetes deployment support. The published image is available on [Docker Hub](https://hub.docker.com/r/toxster/pdf-to-ipp).
 
 ## Current open-source work
 
@@ -39,16 +42,16 @@ Additional contribution:
 
 **Product and delivery:** Product Ownership, Product Discovery, Scrum, Kanban, roadmapping, backlog management, KPI-based delivery, release planning, Azure DevOps, GitHub
 
-**Hands-on technology:** Flutter/Dart, Node.js, Python, PHP, Docker, NGINX, PostgreSQL/MariaDB, Redis, Proxmox
+**Hands-on technology:** Flutter/Dart, Node.js, Python/Flask, PHP, Docker, GitLab CI/CD, Kubernetes, NGINX, CUPS/IPP, PostgreSQL/MariaDB, Redis, Proxmox
 
 **AI and security:** LLM and agent workflows, AI-assisted development, penetration and load testing, security-aware delivery
 
 ## Selected credentials
 
 - Scrum.org: [PSPO I](https://www.scrum.org/certificates/632057), [PSM I](https://www.scrum.org/certificates/632258), [PAL I](https://www.scrum.org/certificates/992875), [PSK I](https://www.scrum.org/certificates/1074830), [PPDV](https://www.scrum.org/certificates/1209978)
-- Google: [Cybersecurity Professional Certificate](https://coursera.org/verify/professional-cert/P232Q4AMZUJ2), [AI Professional Certificate](https://coursera.org/verify/professional-cert/POCW7ZLICYQK)
+- Google: [Cybersecurity Professional Certificate — updated 2026](https://www.credly.com/badges/02295988-46f6-40bb-a7db-59c0637795b0/public_url), [AI Professional Certificate](https://coursera.org/verify/professional-cert/POCW7ZLICYQK)
 - University of Colorado: [Agile Leadership Specialization](https://coursera.org/verify/specialization/4VRM2S9ZTM4J)
 
 ## Connect
 
-[EngpassAudit](https://engpassaudit.de/) · [LinkedIn](https://www.linkedin.com/in/tobias-deichmann/)
+[EngpassAudit](https://engpassaudit.de/) · [LinkedIn](https://www.linkedin.com/in/tobias-deichmann/) · [GitLab](https://gitlab.com/Toxster)
