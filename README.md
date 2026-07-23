@@ -23,7 +23,7 @@ Through [EngpassAudit](https://engpassaudit.de/), I help technical SMEs understa
 ## Selected technical projects
 
 - [darktable-cli-server](https://github.com/ToxicToxster/darktable-cli-server) — a security-focused HTTP service for processing RAW images with `darktable-cli`.
-- [pdf-to-ipp](https://gitlab.com/Toxster/pdf-to-ipp) — a maintained and substantially extended fork of a Flask/CUPS service that receives PDFs through a REST API or web interface and forwards them to network printers via IPP. My extensions include runtime printer configuration, health checks, immutable container delivery, automated GitLab CI/CD, multi-architecture Docker images for AMD64 and ARM64, and Kubernetes deployment support. The published image is available on [Docker Hub](https://hub.docker.com/r/toxster/pdf-to-ipp).
+- [pdf-to-ipp](https://gitlab.com/Toxster/pdf-to-ipp) — a maintained fork of a Flask/CUPS service that receives PDFs through a REST API or web interface and forwards them to IPP network printers. I maintain the fork's container publishing workflow, immutable image tagging and upstream integration. The current codebase supports runtime printer configuration, health checks, AMD64/ARM64 images and Kubernetes deployment. The published image is available on [Docker Hub](https://hub.docker.com/r/toxster/pdf-to-ipp).
 
 ## Current open-source work
 
