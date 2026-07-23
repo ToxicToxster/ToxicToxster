@@ -33,6 +33,7 @@ Recent tested submissions to [Tymeslot](https://github.com/Tymeslot/tymeslot), a
 - [Payment configuration for embedded-booking tests](https://github.com/Tymeslot/tymeslot/pull/65)
 - [OTP 28 and Dialyzer type compatibility](https://github.com/Tymeslot/tymeslot/pull/66)
 - [Mobile dashboard sidebar fix](https://github.com/Tymeslot/tymeslot/pull/68)
+- [CI test database pool alignment](https://github.com/Tymeslot/tymeslot/pull/70)
 
 Additional contribution:
 
