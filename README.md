@@ -25,15 +25,9 @@ Through [EngpassAudit](https://engpassaudit.de/), I help technical SMEs understa
 - [darktable-cli-server](https://github.com/ToxicToxster/darktable-cli-server) — a security-focused HTTP service for processing RAW images with `darktable-cli`.
 - [pdf-to-ipp](https://gitlab.com/Toxster/pdf-to-ipp) — a maintained fork of a Flask/CUPS service that receives PDFs through a REST API or web interface and forwards them to IPP network printers. I maintain the fork's container publishing workflow, immutable image tagging and upstream integration. The current codebase supports runtime printer configuration, health checks, AMD64/ARM64 images and Kubernetes deployment. The published image is available on [Docker Hub](https://hub.docker.com/r/toxster/pdf-to-ipp).
 
-## Current open-source work
+## Open-source contributions
 
-Recent tested submissions to [Tymeslot](https://github.com/Tymeslot/tymeslot), an open-source scheduling platform:
-
-- [Google and Outlook calendar event ID handling](https://github.com/Tymeslot/tymeslot/pull/64)
-- [Payment configuration for embedded-booking tests](https://github.com/Tymeslot/tymeslot/pull/65)
-- [OTP 28 and Dialyzer type compatibility](https://github.com/Tymeslot/tymeslot/pull/66)
-- [Mobile dashboard sidebar fix](https://github.com/Tymeslot/tymeslot/pull/68)
-- [CI test database pool alignment](https://github.com/Tymeslot/tymeslot/pull/70)
+Accepted contributions to [Tymeslot](https://github.com/Tymeslot/tymeslot), an open-source scheduling platform: [calendar provider event ID handling](https://github.com/Tymeslot/tymeslot/pull/64), [embedded-payment test configuration](https://github.com/Tymeslot/tymeslot/pull/65), [mobile sidebar behaviour with Tailwind 4](https://github.com/Tymeslot/tymeslot/pull/68), and [CI/Oban test pool alignment](https://github.com/Tymeslot/tymeslot/pull/70). A separate [OTP 28 and Dialyzer diagnosis](https://github.com/Tymeslot/tymeslot/pull/66) was confirmed and resolved independently upstream.
 
 Additional contribution:
 
